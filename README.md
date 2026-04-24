@@ -4,7 +4,7 @@ This project converts your notebook prototype into a modular Streamlit app that 
 
 1. Planner agent
 2. Fetch agent
-3. Filter agent
+3. Filter agen t
 4. Summarizer agent
 5. Formatter agent
 
